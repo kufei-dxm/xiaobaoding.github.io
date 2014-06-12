@@ -9,31 +9,29 @@ group: "navigation"
 
 ### 关于我
 
-未出师程序员一枚，在校大学生一个  
-熟悉C语言，会用C++，能写Java，略懂Python
-
-#### 我的网名？
-网名喜欢用Ever，但是这个4个字母的短词经常是被注册了，抑或是太短。。。所以用过几次everax，所以邮箱和csdn帐号就是everax了，但是又觉得这个不那么好看。。。。而且加的ax没有意义，之后就用了iEverX，虽然i和X其实还是没有意义，不过看着好多了。。之前的东西没法改名字的就没改过来，小郁闷
+蘑菇街小码农一枚。
 
 ### 关于网站
 
-在这个网站，我会记录一些自己在编程时的一些思想、感悟、体会，分享自己编程的点点滴滴，也算是自己编程之路的一个个脚印吧。同时，可能还会有一些自己翻译的文章（当然英文不好，这个就是暂时放在这里）。此外，也可能会有一些自己的生活杂记。
+用github pages和Jekyll搭建的网站，折腾了好几天的主题样式，期间时常会出现404错误...苦于没时间折腾，就直接去网上拖了个现成的….
 
-#### 技术
+参考的站点是这个:[ieverx.github.com](<https://github.com/iEverX/ieverx.github.com>) ;感谢这位小哥...
 
-* 网站源码：<https://github.com/iEverX/ieverx.github.com>
-* [Jekyll Bootstrap][]
-* [Twitter Bootstrap][]
-* [jQuery][]
+花费时间去搭建个blog，主要是希望能坚持写博，把自己在工作中的一些思想、感悟、体会记录下来。
 
-### 联系我？
+### 联系我
 
-我的邮箱：g.everax(at)gmail.com，有时查的很勤，有时就少看  
-新浪微博: [iEverX][weibo]，有事没事就去逛逛  
-github：[iEverX][github]，我的一些代码可以在这里找到  
+新浪微博: [冒牌_韦小宝][weibo]，有事没事就去逛逛  
 
-[weibo]: http://weibo.com/ieverx
-[github]: http://github.com/iEverX
-[Jekyll Bootstrap]: http://jekyllbootstrap.com "The Definitive Jekyll Blogging Framework"
-[Twitter Bootstrap]: http://twitter.github.com/bootstrap/
-[jQuery]: http://jquery.com
+~~github：[xiaobaoding][github] ~~  `不忍见人...`
+
+[weibo]: http://weibo.com/u/1846491027
+[github]: http://github.com/xiaobaoding
+
+### 内推蘑菇街
+[蘑菇街](http://www.mogujie.com) 常年招收各类技术人才，欢迎找我内推
+
+*	资深搜索开发
+*	资深java开发
+*	资深网站开发(php/java)
+*	资深搜索算法(nlp/机器学习/数据挖掘)
